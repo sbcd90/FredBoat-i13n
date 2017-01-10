@@ -1,2 +1,4 @@
 # FredBoat-i13n
-Todo
+Localization for FredBoat
+
+See https://crowdin.com/project/fredboat
